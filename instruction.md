@@ -59,3 +59,7 @@
 ![Git_version](/Skrin/Instruction_1.JPG)
 ![Git_version](/Skrin/Instruction_2.JPG)
 ![Git_version](/Skrin/Instruction_3.JPG)
+
+10. Команда ***git checkout*** с вводом первых 4-5 символов названия коммита возвращает вас на момент создания этого коммита, например:
+![Git_version](/Skrin/Git_checkout_1.JPG)
+![Git_version](/Skrin/Git_checkout_2.JPG)

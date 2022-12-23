@@ -72,6 +72,14 @@
 
 13. .gitignore
 
+14. branch
+
+15. checkout
+
+16. merge
+
+17. graph
+
 
 # ИНСТРУКЦИЯ ГОТОВА !!!
 ![Git_version](/Skrin/Git_finish.JPG)

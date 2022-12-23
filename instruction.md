@@ -75,7 +75,13 @@
 ![.gitignore](./Skrin/Gitignore_1.JPG)
 
 
-14. branch
+14. Команда **git branch** - это команда для управления ветками в репозитории Git. 
+При воде просто команды **git branch** отображается список всех существующих веток. При этом звездочкой обоанчена ветка,на которой ы сейчас находимся.
+![Git_branch](./Skrin/Git_branch.JPG)
+При вводе команды **git branch new_branch_name** создается новая ветка, где new_branch_name это имя новой ветки.
+![Git_branch](./Skrin/Git_branch_1.JPG)
+Команда **git branch -d branch_name** удаляет ветку, имя которой мы указали, если все изменения этой ветки были влиты вдругую ветку:
+![Git_branch](./Skrin/Git_branch_d.JPG)
 
 15. checkout
 

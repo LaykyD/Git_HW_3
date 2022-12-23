@@ -74,7 +74,6 @@
 ![.gitignore](./Skrin/Gitignore.JPG)
 ![.gitignore](./Skrin/Gitignore_1.JPG)
 
-
 14. Команда **git branch** - это команда для управления ветками в репозитории Git. 
 При воде просто команды **git branch** отображается список всех существующих веток. При этом звездочкой обоанчена ветка,на которой ы сейчас находимся.
 ![Git_branch](./Skrin/Git_branch.JPG)
@@ -95,6 +94,5 @@
 17. Команда **git log --graph** выводит дерево зависимостей для всех коммитов:
 ![Git_log_graph](./Skrin/Git_log_graph.JPG)
 
-
 # ИНСТРУКЦИЯ ГОТОВА !!!
-![Git_version](/Skrin/Git_finish.JPG)
+![Git_version](./Skrin/Git_finish.JPG)

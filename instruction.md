@@ -74,7 +74,8 @@
 
 14. branch
 
-15. checkout
+15. Команда **git checkout name_branch** используется для перемещения между ветками, где **name_branch** - это имя ветки, на которую необходимо перейти.
+![Git_checkout](./Skrin/Git_checkout.JPG)
 
 16. merge
 

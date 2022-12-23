@@ -70,5 +70,8 @@
 12. Команда ***git diff*** (отображаются только изменения, не подготовленные для фиксации):
 ![Git_version](/Skrin/Git_diff.JPG)
 
+13. .gitignore
+
+
 # ИНСТРУКЦИЯ ГОТОВА !!!
 ![Git_version](/Skrin/Git_finish.JPG)

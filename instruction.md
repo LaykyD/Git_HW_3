@@ -81,7 +81,8 @@
 
 16. merge
 
-17. graph
+17. Команда **git log --graph** выводит дерево зависимостей для всех коммитов:
+![Git_log_graph](./Skrin/Git_log_graph.JPG)
 
 
 # ИНСТРУКЦИЯ ГОТОВА !!!

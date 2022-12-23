@@ -83,7 +83,8 @@
 Команда **git branch -d branch_name** удаляет ветку, имя которой мы указали, если все изменения этой ветки были влиты вдругую ветку:
 ![Git_branch](./Skrin/Git_branch_d.JPG)
 
-15. checkout
+15. Команда **git checkout name_branch** используется для перемещения между ветками, где **name_branch** - это имя ветки, на которую необходимо перейти.
+![Git_checkout](./Skrin/Git_checkout.JPG)
 
 16. merge
 
